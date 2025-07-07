@@ -1,7 +1,7 @@
 # PAD-Project1: Data Analysis & Mining  
 **NOVA University of Lisbon** – 2024–2025  
 **Course:** Data Analysis and Mining  
-**Final Grade:** 16.3 / 20 
+**Final Grade:** 16.3 / 20 d
 **Group:** 
   - Ricardo Rodrigues, Alberto Dicembre 
 
