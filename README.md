@@ -2,7 +2,8 @@
 **NOVA University of Lisbon** – 2024–2025  
 **Course:** Data Analysis and Mining  
 **Final Grade:** 16.3 / 20 
-**Group:** Ricardo Rodrigues, 72054 / Alberto Dicembre 72624
+**Group:** 
+  - Ricardo Rodrigues, Alberto Dicembre 
 
 ## Overview
 
