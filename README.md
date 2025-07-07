@@ -20,9 +20,9 @@ The project provides an end-to-end analysis pipeline for clustering, combining b
 ## Contents
 
 - `./`: Jupyter notebooks with code and visualizations  
-- `/data`: Placeholder directory for datasets (not included in repo)  
-- `/report`: Final written report (PDF) summarizing the work  
-- `requirements.txt`: Python packages needed to run the notebooks
+- `/data/`: Directory for datasets
+- `/report/`: Contains the final written report, providing a comprehensive summary of the entire project, including methodology, experiments, results, and critical analysis
+- `./requirements.txt`: Python packages needed to run the notebooks
 
 ## How to Run
 
