@@ -3,7 +3,8 @@
 **Course:** Data Analysis and Mining  
 **Final Grade:** 16.3 
 **Group:** 
-  - Ricardo Rodrigues, Alberto Dicembre 
+  - Ricardo Rodrigues
+  - Alberto Dicembre 
 
 ## Overview
 
