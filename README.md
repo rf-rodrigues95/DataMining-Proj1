@@ -24,7 +24,7 @@ The project provides an end-to-end analysis pipeline for clustering, combining b
 - `./`: Jupyter notebooks with code and visualizations  
 - `/data/`: Directory for datasets
 - `/report/`: Contains the final written report, providing a comprehensive summary of the entire project, including methodology, experiments, results, and critical analysis
-- `/assignment/`: Contains the project specification provided by the course instructor, outlining the objectives, requirements, and evaluation criteria
+- `/assignment/`: Contains the project specification(Part I and Part II) provided by the course instructor, outlining the objectives, requirements, and evaluation criteria
 - `./requirements.txt`: Python packages needed to run the notebooks
 
 ## How to Run
