@@ -29,7 +29,7 @@ The project provides an end-to-end analysis pipeline for clustering, combining b
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/PAD-Project1.git
+git clone https://github.com/rf-rodrigues95/data-mining-project1.git
 cd PAD-Project1
 pip install -r requirements.txt
 jupyter notebook
