@@ -12,7 +12,7 @@ This project explores advanced techniques in data analysis and clustering, using
 
 - **Part 1** focused on classical clustering methods using a numerical dataset (of our own choosing) with at least 10 numerical features. This part involved implementing and evaluating various clustering algorithms, performing EDA, dimensionality reduction with PCA, and interpreting clustering results both quantitatively and visually.
 
-- **Part 2** centered on spectral clustering and community detection using provided network datasets. Unlike Part 1, which covered a broad range of clustering techniques, Part 2 was exclusively dedicated to applying and analyzing spectral methods on graph data, emphasizing parameter sensitivity and structural discovery in networks.
+- **Part 2** centered on spectral clustering and community detection using provided network datasets. Unlike Part 1, which covered a broad range of clustering techniques, Part 2 was exclusively dedicated to applying and analyzing spectral clustering on graph data, emphasizing parameter sensitivity and structural discovery in networks.
 
 Key techniques used:
 
